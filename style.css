@@ -1,0 +1,68 @@
+body {
+    background-color: #B5EAEA;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+img:hover {
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+}
+
+table.intern {
+    border-radius: 25px;
+    border-color: red;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.table1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.table2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zoom {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.zoom :hover {
+    font-size: 40px;
+    display: inline-block;
+}
+
+h1 {
+    color: #185ADB;
+}
+
+h2 {
+    color: #185ADB;
+}
+
+h3 {
+    color: #185ADB;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+}
